@@ -4,7 +4,7 @@ A flight tracking application built with Next.js and the Aviation Stack API.
 
 ## Live Demo
 
-🚀 **[View Live Demo](https://flight-tracker-sandylamture03s-projects.vercel.app)** (Replace with your actual Vercel URL if different)
+🚀 **[View Live Demo](https://flight-tracker-lyart.vercel.app/)** (Replace with your actual Vercel URL if different)
 
 ## Getting Started
 
